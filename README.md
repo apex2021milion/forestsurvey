@@ -9,7 +9,7 @@
 Usage: pip install -r requirements.txt
 
 ### Installation
-Pip install the ultralytics package including all requirements in a Python>=3.7 environment
+Pip install the ultralytics package including all requirements in requirements.txt in a Python>=3.7 environment
 
 
 ## Usage
