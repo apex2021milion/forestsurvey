@@ -18,6 +18,10 @@ inference.py
 model = YOLO('forest.pt') #load current model
 inputs = cv2.imread('DJI_0221.JPG') #load input image
 ```
+## Prototype
+[Prototype](https://deguzmankarladrian-forestsurvey-web-app-vvcq1i.streamlit.app/) was deployed in streamlit using github
+
+To run in local: 
 
 web-app.py
 ```
